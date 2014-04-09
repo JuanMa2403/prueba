@@ -1,4 +1,4 @@
-import java.awt.*;
+﻿import java.awt.*;
 import java.awt.geom.*;
 
 /**
@@ -13,7 +13,7 @@ import java.awt.geom.*;
  * @author David J. Barnes
  * @author Bruce Quig
  *
- * @version 2011.07.31
+ * @version 2011.07.31uy7gigugu7gu7gutgu8
  */
 
 public class BouncingBall
